@@ -1,2 +1,4 @@
-# c-10-day
-This is my first Git repository
+# c++-10-day
+This is my first Git repository.
+author-tanisha bawa
+
